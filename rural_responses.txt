@@ -1,0 +1,433 @@
+Country: Poland
+Response:
+art aspects: folk music, painting and great writers 
+Emotions: {'anticipation': 1, 'joy': 2, 'positive': 2, 'sadness': 2, 'surprise': 1}
+----------------------------------------
+Country: India
+Response:
+	Traditional Crafts and Art Forms: Skills and techniques in traditional crafts, such as weaving, pottery, and hand-carving, might decline if not actively practiced and preserved.	 Oral Histories and Stories: Stories, folklore, and oral traditions that are passed down through generations could be diminished if they aren’t recorded and maintained.
+
+
+Emotions: {'positive': 2, 'negative': 2, 'joy': 1, 'surprise': 1, 'trust': 1}
+----------------------------------------
+Country: India
+Response:
+I think celebration or tradition people are mostly like robot 
+Emotions: {'anticipation': 1, 'joy': 1, 'positive': 1, 'surprise': 1, 'trust': 1}
+----------------------------------------
+Country: India
+Response:
+Human connection 
+Emotions: {}
+----------------------------------------
+Country: Australia
+Response:
+The connection between people in real time 
+Emotions: {'positive': 1, 'trust': 1, 'anticipation': 1}
+----------------------------------------
+Country: India
+Response:
+Interaction among people 
+Emotions: {}
+----------------------------------------
+Country: India
+Response:
+Language preservation: AI models are often trained on large datasets of text, which can be biased towards certain languages and dialects. This could lead to the neglect of less common languages, potentially contributing to language loss.
+Cultural understanding: AI models can be influenced by the cultural biases present in their training data. This could lead to AI systems that struggle to understand and respond to people from different cultural backgrounds.
+Emotions: {'negative': 4, 'positive': 4, 'anger': 2, 'fear': 2, 'sadness': 2, 'trust': 2, 'anticipation': 1, 'joy': 1, 'surprise': 1}
+----------------------------------------
+Country: United States
+Response:
+Human connection and gathering
+Emotions: {}
+----------------------------------------
+Country: Netherlands
+Response:
+The ability to understand, speak and think in different languages
+Emotions: {'positive': 1}
+----------------------------------------
+Country: United States
+Response:
+Family values, community, language 
+Emotions: {'positive': 1}
+----------------------------------------
+Country: Peru
+Response:
+The idioms of our language, I feel that it would be somewhat dehumanizing if AI started using the same words as internet users and deliberately implemented them.
+Emotions: {'anger': 1, 'negative': 1}
+----------------------------------------
+Country: India
+Response:
+The accent and slang words.
+Emotions: {'anger': 1, 'negative': 1}
+----------------------------------------
+Country: South Africa
+Response:
+Human interaction. 
+Emotions: {}
+----------------------------------------
+Country: United States
+Response:
+Person to person contact
+Emotions: {'positive': 1}
+----------------------------------------
+Country: Indonesia
+Response:
+Need to meet people
+Emotions: {}
+----------------------------------------
+Country: France
+Response:
+My open-mindedness is essential, I am able to open myself to other cultures, but I want others to be able to adapt to mine, or at least respect it.
+Emotions: {'positive': 3, 'anticipation': 1, 'joy': 1, 'trust': 1}
+----------------------------------------
+Country: India
+Response:
+Losing many languages that aren't mainstream, especially tribal languages and less known ones, which would simply go extinct.
+Emotions: {'negative': 1, 'sadness': 1}
+----------------------------------------
+Country: Brazil
+Response:
+Communication, the union of people, the monthly and weekly meetings to eat something different and go on trips
+Emotions: {'positive': 1}
+----------------------------------------
+Country: India
+Response:
+In a future with advanced AI, I'd be concerned about losing the following Indian cultural aspects:
+
+Classical music and dance traditions
+
+Folklore and oral storytelling.
+
+Ayurvedic medicine and traditional healing.
+
+Regional languages and dialect.
+
+Traditional festivals and celebration.
+Emotions: {'positive': 6, 'fear': 1, 'sadness': 3, 'anger': 1, 'negative': 1, 'joy': 4, 'trust': 3, 'anticipation': 2, 'surprise': 1}
+----------------------------------------
+Country: Kenya
+Response:
+The norms and traditions that are associated with procedural cultural events as AI seeks to make everything easier 
+Emotions: {}
+----------------------------------------
+Country: United States
+Response:
+holidays and traditions that come from those day
+Emotions: {}
+----------------------------------------
+Country: United States
+Response:
+I would be more worried because AI would not understand the exact reason why our language is structured.
+Emotions: {'negative': 1, 'sadness': 1, 'positive': 1}
+----------------------------------------
+Country: Philippines
+Response:
+losing the cultures, the bond and doing literature such as poetry the way we do today.
+Emotions: {'anger': 1, 'negative': 1, 'sadness': 1}
+----------------------------------------
+Country: India
+Response:
+In a future with advanced AI, several intangible cultural elements like Language Diversity,Traditional Knowledge and Practices,Cultural Nuances and Values,Art and Creative Expressions,Community Practices and Social Structures might be at risk of being overshadowed or lost.
+Emotions: {'positive': 1, 'anticipation': 1, 'fear': 1, 'negative': 2, 'sadness': 1}
+----------------------------------------
+Country: Philippines
+Response:
+The way we respect each other because we might think a normal person is an Ai so people will start to igniore each other.
+Emotions: {'anticipation': 2, 'joy': 1, 'positive': 1, 'trust': 1}
+----------------------------------------
+Country: India
+Response:
+In a future with advanced AI, I’d be most worried about losing intangible aspects of culture such as traditional practices, values, and unique worldviews. For instance, the subtle nuances of regional languages, which carry cultural context and historical significance, might be overshadowed by dominant languages like English. Additionally, AI’s potential Western biases could lead to a homogenization of cultural perspectives, diluting local traditions and practices.
+Emotions: {'positive': 5, 'negative': 3, 'sadness': 2, 'anger': 1, 'surprise': 1, 'fear': 1}
+----------------------------------------
+Country: India
+Response:
+I think it's 1. Diversity - Erosion of Traditional Knowledge & Loss of Personal Connection.
+Emotions: {}
+----------------------------------------
+Country: Angola
+Response:
+The use of regional languages ​​that have been replaced by AI. Most of the Javanese tribes are unable to use the traditional language to their parents, because in reality it is rarely used and they prefer Indonesian and English.
+Emotions: {'negative': 1, 'sadness': 1, 'positive': 2, 'trust': 1}
+----------------------------------------
+Country: India
+Response:
+Imagine if AI got so good at speaking Hindi that it started sounding like a robot from a Bollywood movie! That’s kind of scary, isn’t it? Our languages are like fingerprints – they’re unique to us and tell a story about who we are. If AI starts to replace human language, we might lose some of that specialness. And we also have to worry about AI getting confused or making mistakes. It could end up saying things that don’t make sense or even hurt people’s feelings.
+Emotions: {'anticipation': 2, 'joy': 2, 'positive': 5, 'surprise': 3, 'trust': 3, 'anger': 2, 'disgust': 1, 'fear': 3, 'negative': 3, 'sadness': 3}
+----------------------------------------
+Country: United States
+Response:
+Culture based around labor, interactions, and the mundane everyday activities 
+Emotions: {'anticipation': 1, 'joy': 1, 'positive': 1, 'surprise': 1, 'trust': 1}
+----------------------------------------
+Country: India
+Response:
+people will not help to each other and they will not trust 
+Emotions: {'trust': 1}
+----------------------------------------
+Country: None
+Response:
+AI might change the way our culture is recognized.
+Emotions: {'fear': 1, 'positive': 1}
+----------------------------------------
+Country: Israel
+Response:
+traditions and cooking meals to family cleaning together eating together while talking 
+Emotions: {'positive': 1}
+----------------------------------------
+Country: United States
+Response:
+Individuality
+Emotions: {}
+----------------------------------------
+Country: Pakistan
+Response:
+How to respect and take care of elders and the weak.
+Emotions: {'anticipation': 1, 'joy': 1, 'positive': 2, 'trust': 2}
+----------------------------------------
+Country: United States
+Response:
+Welcoming people from all parts of the earth. 
+Emotions: {}
+----------------------------------------
+Country: Algeria
+Response:
+I’m worried about losing languages. We come from different cultures and countries. We speak different languages and that’s what makes us special. But with AI being programmed solely in English, we will definitely lose all of that.
+Emotions: {'negative': 3, 'sadness': 3, 'anger': 2, 'joy': 1, 'positive': 1, 'disgust': 1, 'fear': 1, 'surprise': 1}
+----------------------------------------
+Country: South Africa
+Response:
+The true sense of family and cultural interactions which we learn from travelling that will be destroyed if AI had to take over and dominate as it will have no human element attached to it
+Emotions: {'joy': 1, 'positive': 4, 'trust': 1, 'anger': 2, 'fear': 2, 'negative': 2, 'sadness': 1}
+----------------------------------------
+Country: Colombia
+Response:
+Culinary traditions, traditional music, ancestral dances.
+Emotions: {'positive': 2, 'joy': 1, 'sadness': 1, 'trust': 1}
+----------------------------------------
+Country: Switzerland
+Response:
+Artistic culture because most of it would be generated by AI
+Emotions: {'positive': 1}
+----------------------------------------
+Country: Australia
+Response:
+Helping out your fellow man, matesmanship, and general comradery. AI may split and divide those who are different.
+Emotions: {'positive': 2, 'trust': 2, 'negative': 1}
+----------------------------------------
+Country: Italy
+Response:
+losing contact with other people in a more digital world
+Emotions: {'anger': 1, 'negative': 1, 'sadness': 1, 'positive': 1}
+----------------------------------------
+Country: Philippines
+Response:
+The food and the traditional things.
+Emotions: {'joy': 1, 'positive': 2, 'trust': 1}
+----------------------------------------
+Country: China
+Response:
+Many uncommon and commonly used languages.
+Emotions: {}
+----------------------------------------
+Country: Spain
+Response:
+Religion and family life 
+Emotions: {}
+----------------------------------------
+Country: India
+Response:
+That use of my language as such is diminishing when using technology. 
+Emotions: {'positive': 1}
+----------------------------------------
+Country: Switzerland
+Response:
+I am worried about literature and art created by AI.
+Emotions: {'negative': 1, 'sadness': 2, 'anticipation': 1, 'joy': 1, 'positive': 1, 'surprise': 1}
+----------------------------------------
+Country: Indonesia
+Response:
+Children games world be forgotten
+Emotions: {'fear': 1, 'negative': 1, 'sadness': 1}
+----------------------------------------
+Country: Germany
+Response:
+That the arts like painting and writting that humans use to express themself and their emtions will be overtaken by mediocre, overpolished AI content. AI can only copy things but not create new ideas, new books. And creators of the original content will not get paid. 
+Emotions: {'negative': 2, 'joy': 3, 'positive': 3, 'trust': 2}
+----------------------------------------
+Country: Kenya
+Response:
+decision-making bias in a Western way
+Emotions: {'anger': 1, 'negative': 1}
+----------------------------------------
+Country: India
+Response:
+I believe AI would make people forget if there was a significant cultural importance to my heritage. It will probably promote more of the westernized options out there more than traditional practices in my culture. It isn't AI's fault, it's human's we forget to be inclusive even in AI development 
+Emotions: {'negative': 3, 'anticipation': 1, 'positive': 4, 'trust': 1, 'sadness': 1}
+----------------------------------------
+Country: India
+Response:
+I am scared that if AI gets advanced like this, then we will become self-sufficient and independent in all matters, which can cause family bonding to be lost. 
+Emotions: {'positive': 1, 'negative': 1, 'sadness': 1}
+----------------------------------------
+Country: Kenya
+Response:
+Festival's 
+Emotions: {}
+----------------------------------------
+Country: United States
+Response:
+Cultural diversity 
+Emotions: {}
+----------------------------------------
+Country: None
+Response:
+Do not use terms specific to my language and use terms foreign to it
+Emotions: {'negative': 1}
+----------------------------------------
+Country: India
+Response:
+About religion and culture and faith
+Emotions: {'trust': 2, 'positive': 2, 'anticipation': 1, 'joy': 1}
+----------------------------------------
+Country: India
+Response:
+No, learning languages will never be useless, because if you don’t know the language, you will never understand all the layers that an AI will always strip away from what is said, and twist the actual meaning until it’s meaningless. An AI will not, in the foreseeable future, be able to understand all the cultural references and translate creatively. One day, maybe. But anything that is based on the current technology, will not be able to translate humour and have you laugh.
+Emotions: {'positive': 5, 'negative': 3, 'trust': 1, 'sadness': 2, 'joy': 1, 'surprise': 1}
+----------------------------------------
+Country: Kenya
+Response:
+My mother tongue.
+Emotions: {'anticipation': 1, 'joy': 1, 'negative': 1, 'positive': 1, 'sadness': 1, 'trust': 1}
+----------------------------------------
+Country: Poland
+Response:
+Lack of full protection over the country's monuments
+Emotions: {'positive': 1}
+----------------------------------------
+Country: Greece
+Response:
+The cultural things that involve the presence of humans to be able to be celebrated, i don't think AI should be part of a nations culture and traditions.
+Emotions: {'positive': 3, 'anticipation': 1, 'joy': 1}
+----------------------------------------
+Country: United Kingdom
+Response:
+Religious traditions
+Emotions: {}
+----------------------------------------
+Country: France
+Response:
+Originality
+Emotions: {}
+----------------------------------------
+Country: Philippines
+Response:
+The smile in the middle of the storm. Looking at the good things in life when you are experiencing v=bad events in your life. 
+Emotions: {'joy': 2, 'positive': 2, 'surprise': 2, 'trust': 2, 'anger': 1, 'negative': 1, 'anticipation': 1}
+----------------------------------------
+Country: Kenya
+Response:
+kindness.
+Emotions: {'positive': 1}
+----------------------------------------
+Country: Philippines
+Response:
+making a regular visit to a church
+Emotions: {'positive': 2, 'anticipation': 1, 'joy': 1, 'trust': 1}
+----------------------------------------
+Country: United States
+Response:
+Small local languages 
+Emotions: {}
+----------------------------------------
+Country: Pakistan
+Response:
+I think less social interactions
+Emotions: {}
+----------------------------------------
+Country: Kenya
+Response:
+Marriage. Language, and Religion.
+Emotions: {}
+----------------------------------------
+Country: Chile
+Response:
+Exactly what was described before: spreading western (American) biases
+Emotions: {}
+----------------------------------------
+Country: Indonesia
+Response:
+If i can't use AI as my tools 
+Emotions: {}
+----------------------------------------
+Country: India
+Response:
+I don't think we should relate advance of AI and culture in any way. It is just advance of AI and how it will affect the mankind. That's all.
+Emotions: {'anticipation': 2, 'fear': 2, 'joy': 2, 'positive': 3, 'surprise': 2}
+----------------------------------------
+Country: Israel
+Response:
+AI and especially LLMs are about averaging everything. This means losing nuances and that's exactly where culture can be lost. LLMs answers are always the average of their input, making everything mediocre, lacking anything unique. That's why I hate the written stuff it generates. Not flavor, no culture. 
+Emotions: {'anger': 2, 'negative': 5, 'sadness': 3, 'positive': 3, 'surprise': 1, 'disgust': 1, 'fear': 1}
+----------------------------------------
+Country: Philippines
+Response:
+Connection
+Emotions: {}
+----------------------------------------
+Country: Netherlands
+Response:
+Not many. I'm already well integrated in to the western culture.
+Emotions: {'positive': 1}
+----------------------------------------
+Country: Netherlands
+Response:
+Nothing. It can be very intelligent 
+Emotions: {'positive': 1, 'trust': 1}
+----------------------------------------
+Country: None
+Response:
+I don't have any concerns about this. It doesn't matter to me. I'm not someone who cares much about cultural values.
+Emotions: {}
+----------------------------------------
+Country: China
+Response:
+我不担心失去传统文化
+Emotions: {}
+----------------------------------------
+Country: Japan
+Response:
+Good natural manner
+Emotions: {}
+----------------------------------------
+Country: United States
+Response:
+not worried about any cultural loss
+Emotions: {'negative': 2, 'sadness': 2, 'anger': 1, 'fear': 1}
+----------------------------------------
+Country: Russian Federation
+Response:
+None. The overwhelming majority of people were stupid and will remain so.
+Emotions: {'positive': 2, 'joy': 1, 'trust': 1, 'negative': 1}
+----------------------------------------
+Country: Slovakia
+Response:
+Not going to church on sunday
+Emotions: {'anticipation': 1, 'joy': 1, 'positive': 1, 'trust': 1}
+----------------------------------------
+Country: Greece
+Response:
+I can't think of anything as these things don't mean much to me.
+Emotions: {}
+----------------------------------------
+Country: South Africa
+Response:
+nothing in mind
+Emotions: {}
+----------------------------------------
+Country: Germany
+Response:
+none
+Emotions: {}
+----------------------------------------
