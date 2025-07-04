@@ -1,0 +1,234 @@
+
+--- Topic 27 ---
+Top keywords: [('empathy', 0.1341154856942605), ('collaboration', 0.08824573311868014), ('perspectives', 0.0610874709379861), ('experiences', 0.05729713874958388), ('leaders', 0.04892579061165161), ('effective', 0.048235359264340916), ('profound', 0.04670958661405956), ('drive', 0.04534929842216207), ('ultimately', 0.04429872552629632), ('inclusivity', 0.04429872552629632)]
+Examples:
+- It would be the importance of empathy in their decision-making and the significance of collaboration
+- I’d want leaders to understand the power of empathy. When leaders genuinely listen to and understand the experiences and perspectives of others, they can make more informed, compassionate decisions. Empathy helps in building trust, fostering collaboration, and navigating complex issues with greater sensitivity. It’s the cornerstone of effective leadership and can drive positive change within organizations and communities.
+- It would be the profound important of empathy & collaboration in addressing global challenges 
+
+
+--- Topic 2 ---
+Top keywords: [('climate', 0.09299135280748126), ('change', 0.07152776463198689), ('sustainable', 0.05856144608594209), ('global', 0.05345998155852355), ('action', 0.046909278819791934), ('term', 0.04620051409843754), ('future', 0.041203881548374025), ('leaders', 0.03871618835036909), ('long', 0.03672744161234706), ('world', 0.03334589488551004)]
+Examples:
+- I would make them understand that sustainable cooperation and empathy are essential for global peace and prosperity.
+- The interconnectedness of global issues requires collaborative and holistic approaches to create sustainable and equitable solutions for all
+- Solutions to global challenges require real collaboration and long-term sustainable planning.
+
+
+--- Topic 9 ---
+Top keywords: [('empathy', 0.29730033774589765), ('compassion', 0.20524466958306112), ('each', 0.08162495221143506), ('feelings', 0.07409112769342742), ('love', 0.07212678356201652), ('other', 0.058979787233589744), ('cannot', 0.05561242013080809), ('important', 0.05401412867257126), ('sensations', 0.04890795919975425), ('harmed', 0.04890795919975425)]
+Examples:
+- Human life is very important so they should treat people with compassion 
+- How important is empathy and helping loved ones and those in need
+- Remember the good human in you: don't harm others, as you wouldn't want yourself to be harmed either. To forgive, as you would like to be forgiven as well
+
+
+--- Topic 7 ---
+Top keywords: [('decisions', 0.08499679453364324), ('world', 0.05529897865644747), ('leaders', 0.053081579205890565), ('good', 0.04633459666647188), ('people', 0.03729095220155374), ('citizens', 0.03575384659353355), ('understand', 0.03230804873912405), ('higher', 0.029576300425568764), ('best', 0.02945888716869886), ('doing', 0.02945888716869886)]
+Examples:
+- That they are in that position because of the people. That they must not involve their personal reasons in deciding what is good for the people. 
+- Not to make decisions affecting the rest of the world without proper consultation with everyone who occupies it
+- That even Bad People were good People once and we need to understand Bad Peoples Story First to make the World a Better Place
+
+
+--- Topic -1 ---
+Top keywords: [('people', 0.02501957917401975), ('should', 0.017484479671952102), ('stop', 0.017437776198782676), ('life', 0.01718862330841233), ('humans', 0.016545500303723194), ('human', 0.015279380248249616), ('live', 0.014847158340522023), ('cultural', 0.014609945371193363), ('peace', 0.014073875400719756), ('well', 0.013694998578736772)]
+Examples:
+- I would make them understand that it is important to mind and care about the poor and starving.
+- It is their duty to protect all people everywhere.
+- The earth is our home, peace is above all else
+
+
+--- Topic 23 ---
+Top keywords: [('people', 0.3379375029760971), ('pieces', 0.16209495049061406), ('types', 0.16209495049061406), ('chess', 0.16209495049061406), ('attention', 0.16209495049061406), ('owners', 0.16209495049061406), ('dying', 0.14238876062023817), ('everywhere', 0.14238876062023817), ('away', 0.13090172343854165), ('pawns', 0.13090172343854165)]
+Examples:
+- It's not about you. Think about the people 
+- To pay attention to their own peoples 
+- That their people need their aid not corporations or other nations but their own people 
+
+
+--- Topic 12 ---
+Top keywords: [('interests', 0.26278304359434196), ('interest', 0.14396790394744383), ('serve', 0.13371449372684338), ('others', 0.09082057309764269), ('agendas', 0.05886692337286014), ('represent', 0.053405479247890485), ('self', 0.05134002725681351), ('collective', 0.04798930131581461), ('think', 0.047441417316671536), ('country', 0.042915335109714146)]
+Examples:
+- collective interests above individual interests. have more empathy and consideration for others
+- That they are there to serve the people, and not to impose their own agendas and thoughts.
+- They should think about the benefit of all the communities that inhabit the planet, and not just for the benefit of their pockets or their egos.
+
+
+--- Topic 22 ---
+Top keywords: [('accountability', 0.3412879193231669), ('accountable', 0.23080400625881434), ('transparency', 0.21214086734419169), ('leadership', 0.13219694324733836), ('responsibility', 0.12487603743209454), ('foresight', 0.1070438352296508), ('overlooked', 0.1070438352296508), ('whatever', 0.1070438352296508), ('govern', 0.1070438352296508), ('planning', 0.09403031361713841)]
+Examples:
+- I like to implement cultural sensitivity guidelines and promote transparency and accountability.
+- That there should be accountable of their actions and they should respect their citizens while doing their job.
+- that human involvement should not be overlooked at because it is very key
+
+
+--- Topic 4 ---
+Top keywords: [('life', 0.1404220104744771), ('every', 0.08545747593797279), ('matter', 0.08525604495824324), ('lives', 0.07208007678640567), ('matters', 0.07185088006882326), ('live', 0.059644311299069455), ('human', 0.048227647347448686), ('people', 0.042335232338690576), ('path', 0.04036617022333884), ('purpose', 0.04036617022333884)]
+Examples:
+- That every life is important.
+- I'm really not sure. I think they can see people are suffering and struggling but I don't think they care.
+- We have a bigger purpose in life: Live and let live.
+
+
+--- Topic 16 ---
+Top keywords: [('peaceful', 0.30104856764144117), ('world', 0.20924357397583496), ('peace', 0.18616489337752068), ('live', 0.1031562564943906), ('opposed', 0.07564431022895324), ('wonderful', 0.07564431022895324), ('liveable', 0.07564431022895324), ('county', 0.07564431022895324), ('most', 0.0675652483721982), ('utmost', 0.06644808828944448)]
+Examples:
+- To live in peace is the most important aspect of our planet.
+- World peace is of utmost importance 
+- This world is very big and every humans in it got rights to live in peace, love and harmony.
+
+
+--- Topic 1 ---
+Top keywords: [('respect', 0.14633597241186166), ('rights', 0.07729072622203628), ('culture', 0.05950085435568369), ('freedom', 0.05945253109549739), ('human', 0.04951662640895533), ('dignity', 0.049313447233518236), ('deserve', 0.04609498679019035), ('life', 0.04289506091497558), ('basic', 0.04049961015514425), ('everyone', 0.038524020186581284)]
+Examples:
+- That our language and culture is very important 
+- Respect the opinion of people
+- I would tell them that all of us have our own differences, and that we should learn to respect one's opinion and that everything can be solved if things will be handled smoothly and talked about in a calm manner.
+
+
+--- Topic 26 ---
+Top keywords: [('peace', 0.2275348696836364), ('negotiate', 0.13289617657888897), ('able', 0.12902081470347476), ('each', 0.09468494456526468), ('learning', 0.07564431022895324), ('theories', 0.07564431022895324), ('production', 0.07564431022895324), ('bloodshed', 0.07564431022895324), ('listening', 0.07564431022895324), ('communicate', 0.07564431022895324)]
+Examples:
+- that people want to live in peace.
+- They should promote love and peace
+- How crucial peace is and learning to co-exist
+
+
+--- Topic 0 ---
+Top keywords: [('technology', 0.06157351601450603), ('technological', 0.04724401568002142), ('ethical', 0.04484531319223139), ('ensuring', 0.04086619488413119), ('leaders', 0.03310966941657126), ('privacy', 0.03034549659719942), ('equitable', 0.030152557935834493), ('world', 0.029264395421909062), ('understand', 0.02750770704123928), ('development', 0.02696877462228186)]
+Examples:
+- Ensure that policies and technologies respect human rights and protect the privacy and dignity of individuals.
+- Not only improving technology is important but the laws and justice and environment should also should be taken care of
+- that everyone has a right to enjoy their privacy without people thinking of diving into people's privacy unnecessarily.
+
+
+--- Topic 13 ---
+Top keywords: [('together', 0.08625522564022915), ('place', 0.08585484392108093), ('fighting', 0.08564166068933485), ('better', 0.08099412272358164), ('bigger', 0.05609496381433102), ('planet', 0.050160113268548655), ('unite', 0.04944129842103192), ('problem', 0.04893809182247706), ('space', 0.046373583520346665), ('please', 0.04429972855886603)]
+Examples:
+- We are sharing this planet together, we should seek more understanding and unity as a specie.
+- that they can make the world a better place
+- Please leave the world a better place
+
+
+--- Topic 14 ---
+Top keywords: [('countries', 0.22327684403775955), ('country', 0.12358262181495593), ('other', 0.11132871081369898), ('rule', 0.08291642594211755), ('china', 0.0813294731422892), ('hostile', 0.058977593156311674), ('total', 0.05421964876152612), ('over', 0.047845038008091326), ('trying', 0.04281244905119016), ('develop', 0.041458212971058776)]
+Examples:
+- Ethical in treating all the countries , no war between countries 
+- That they need to make decisions that will benefit their people. but they don't have to cause harm to other countries to do so.
+- They need to listen to the people's opinions and stay out of other country's problems
+
+
+--- Topic 15 ---
+Top keywords: [('leader', 0.13341004144658974), ('leadership', 0.09404614754508636), ('leaders', 0.0738812274337021), ('younger', 0.06689404861353472), ('leading', 0.05768168330495021), ('true', 0.05768168330495021), ('individual', 0.04565365612969336), ('means', 0.0413150385475297), ('lead', 0.038840730248738), ('selflessly', 0.03807599508168787)]
+Examples:
+- The true meaning of leadership which means taking absolute responsibility for the people being lead and caring about their wellbeing in various ways. To be a leader means to serve and to bring about Change for the greater good 
+- Don't just think about being a leader until you retire. Listen to the young people.
+- Successful leaders stand out by displaying qualities such as integrity, clear communication, accountability, vision, and self-awareness. They excel in decision-making, empowering others, fostering creativity, and motivating and inspiring their teams.
+
+
+--- Topic 11 ---
+Top keywords: [('humanity', 0.2785596401050405), ('mortal', 0.1557377069283855), ('living', 0.1511962672306345), ('human', 0.12829307751411154), ('humans', 0.10103566165583241), ('largest', 0.08864567604955458), ('prevails', 0.08864567604955458), ('angels', 0.08864567604955458), ('return', 0.08864567604955458), ('owns', 0.08864567604955458)]
+Examples:
+- Have a global vision, for your people, not just for yourself
+- civilizations opinion. 
+- Humanity is a community
+
+
+--- Topic 25 ---
+Top keywords: [('money', 0.26992646693892947), ('bank', 0.09444583310370969), ('having', 0.08236971406038213), ('should', 0.06883313013710814), ('time', 0.06620355111000444), ('consume', 0.06234421172715927), ('spot', 0.06234421172715927), ('payers', 0.06234421172715927), ('stealing', 0.06234421172715927), ('accounts', 0.06234421172715927)]
+Examples:
+- That they are responsible for people, not servants that help grow an economy they profit from. 
+- They should understand that not all people have a lot of money like them and make life easier
+- That people have more social problems than they think and instead of wasting time making false promises and fattening their bank accounts they should work on the real issues. They are employed by tax payers.
+
+
+--- Topic 8 ---
+Top keywords: [('poor', 0.1184475879345342), ('rich', 0.11393808415878763), ('poverty', 0.08717622615099647), ('getting', 0.05410376827883347), ('taxes', 0.053068266258868235), ('richer', 0.04977550663573888), ('people', 0.04281302824866095), ('wage', 0.03848344881628059), ('affordable', 0.03848344881628059), ('wealth', 0.03833067558243828)]
+Examples:
+- That it is good to eradicate poverty. 
+- That making good quality, affordable housing, healthcare and other necessities affordable and accesible to all, will curb all kinds of crime and violence.
+- I want them to understand the increasing poverty and effective actions against hazardous crime.
+
+
+--- Topic 6 ---
+Top keywords: [('wars', 0.20286375987367133), ('weapons', 0.09084119585746485), ('nuclear', 0.06396137166910933), ('kill', 0.06396137166910933), ('fight', 0.056747481487459894), ('anything', 0.05059639792293128), ('lead', 0.0453903435847997), ('people', 0.043484605162365436), ('radiation', 0.03908711075849675), ('gain', 0.03908711075849675)]
+Examples:
+- That their are no need for wars and everyone should be bale to just get along without harming others. 
+- people wanna just enjoy their lives, we do not need wars and new lands.
+- i personally would want to go see them fight their own wars. and let the people live their own lives. if you start a war, lead by example, go to the front lines.
+
+
+--- Topic 24 ---
+Top keywords: [('work', 0.32685633873795433), ('working', 0.17516094980272334), ('people', 0.12320638129336872), ('time', 0.1004087191835067), ('oppress', 0.09455538778619155), ('seeing', 0.09455538778619155), ('vice', 0.09455538778619155), ('versa', 0.09455538778619155), ('overworking', 0.09455538778619155), ('ourselves', 0.09455538778619155)]
+Examples:
+- It is important to work together and not lie to the people.
+- They work for the people 
+- How important is to work FOR people, instead of seeing them as tools.
+
+
+--- Topic 5 ---
+Top keywords: [('corruption', 0.2856873327400227), ('stop', 0.07428160907507604), ('corrupt', 0.06721724112234492), ('country', 0.06301648345133314), ('corrupts', 0.04296212604920979), ('greed', 0.03980134101453831), ('remove', 0.03949620965818067), ('vote', 0.03949620965818067), ('cost', 0.03949620965818067), ('bank', 0.03704556384671371)]
+Examples:
+- Make the world better and peaceful by removing corruptions and race.
+- Reduce corruption and educate moral and social values 
+- I will like them to stop corruption and dictatorship especially here in African 
+
+
+--- Topic 10 ---
+Top keywords: [('peace', 0.9696088196745869), ('table', 0.14183308167928732), ('spread', 0.14183308167928732), ('number', 0.14183308167928732), ('invite', 0.14183308167928732), ('huminity', 0.14183308167928732), ('cherish', 0.14183308167928732), ('lover', 0.12459016554270841), ('science', 0.11453900800872395), ('harmony', 0.101938436097643)]
+Examples:
+- peace and live together 
+- peace is all we need.
+- Peace lover
+
+
+--- Topic 20 ---
+Top keywords: [('problems', 0.3502629738959536), ('solve', 0.3365257623093552), ('solution', 0.325880836842276), ('never', 0.1813302318649305), ('does', 0.1500242031435753), ('solutions', 0.14010518955838144), ('maslow', 0.13193775039933703), ('ladder', 0.13193775039933703), ('tthings', 0.13193775039933703), ('overcomplicate', 0.13193775039933703)]
+Examples:
+- Helping those in need
+- War never solves problems.
+- I can't find a job
+
+
+--- Topic 3 ---
+Top keywords: [('power', 0.22567960253963854), ('money', 0.0781818267956795), ('everything', 0.06413376785401893), ('point', 0.04772458667030164), ('character', 0.0447633896481124), ('people', 0.035935194543899214), ('value', 0.03542913939231412), ('batman', 0.034608379317419), ('much', 0.032799827583831584), ('powers', 0.031816391113534424)]
+Examples:
+- Do not lie. Do not value sociopathy. Be honest and have the welfare of the people as your highest value, not your own pocket, reputation or personal power.  
+- that batman actually has superpowers. he only shows up in the dark and around bad guys. they can't really see him or his gadgets. they assume he has wings and fangs and that bullets go right through him. the batman is an urban legend. he's a monster. a demon. he's a ghost story shared by criminals.
+
+there are more stupid versions of the character than good ones at this point, but that's the core idea of the character.
+- I would like them to understand that everything is not about being in power. Power is responsibility. The people with power should work to the betterment of the people.
+
+
+--- Topic 19 ---
+Top keywords: [('know', 0.6534013169263505), ('careful', 0.277244219756051), ('really', 0.22601412877770755), ('fucking', 0.18301042797327396), ('idiots', 0.18301042797327396), ('funny', 0.18301042797327396), ('pathetic', 0.18301042797327396), ('fools', 0.18301042797327396), ('assholes', 0.18301042797327396), ('lots', 0.18301042797327396)]
+Examples:
+- That we ACTUALLY exist
+- I want them to understand how to stop being fucking assholes
+- We are not fools.
+
+
+--- Topic 18 ---
+Top keywords: [('equality', 0.2740840023925201), ('equal', 0.26386464488510647), ('opportunity', 0.17475160473881657), ('everyone', 0.14340369963331484), ('give', 0.1382365871822944), ('racial', 0.13090172343854165), ('discrimination', 0.13090172343854165), ('giving', 0.12277958303482259), ('anyways', 0.08104747524530703), ('backward', 0.08104747524530703)]
+Examples:
+- Giving equal opportunity to all will make a world better place. 
+- No racial discrimination. Support racial equality.
+- There should be an equality status to each and everyone despite all our differences.
+
+
+--- Topic 17 ---
+Top keywords: [('purely', 0.8104747524530703), ('none', 0.7119438031011909), ('represent', 0.5569428550137151), ('nothing', 0.5004598565792095), ('same', 0.4215709113875142), ('thing', 0.31129175117900415), ('want', 0.24253293136853982), ('', 1e-05), ('', 1e-05), ('', 1e-05)]
+Examples:
+- That they are the same as us
+- We don't need war 
+- 寛容性
+
+
+--- Topic 21 ---
+Top keywords: [('equality', 0.6449035350412238), ('equal', 0.2716253697346684), ('negative', 0.269503548255821), ('entirety', 0.16686244903445566), ('sword', 0.16686244903445566), ('happening', 0.16686244903445566), ('edged', 0.16686244903445566), ('double', 0.14657666534436284), ('mean', 0.14657666534436284), ('agree', 0.14657666534436284)]
+Examples:
+- Equality and respect for all
+- Just because we do not see eye-to-eye or agree, does not mean that one nor both are right or wrong in their entirety.
+- That equality is not so difficult to achieve
+
