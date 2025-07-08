@@ -1,0 +1,23 @@
+# Node
+web-app/node_modules/
+web-app/build/
+web-app/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data outputs (optional, if you want to keep only raw data)
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode/IDE
+.vscode/
+.idea/ 

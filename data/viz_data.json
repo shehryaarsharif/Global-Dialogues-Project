@@ -1,0 +1,90 @@
+{
+  "sentiment": {
+    "More excited than concerned": 428,
+    "Equally concerned and excited": 706,
+    "More concerned than excited": 119
+  },
+  "geographic": {
+    "Africa": 256,
+    "Asia": 539,
+    "Europe": 173,
+    "North America": 162,
+    "South America": 100,
+    "Oceania": 20
+  },
+  "age": {
+    "18-25": 430,
+    "26-35": 512,
+    "36-45": 191,
+    "46-55": 85,
+    "56-65": 25,
+    "65+": 8
+  },
+  "religion": {
+    "Christianity": 415,
+    "Islam": 217,
+    "Hinduism": 154,
+    "Buddhism": 34,
+    "Judaism": 21,
+    "Sikhism": 7,
+    "Other religious group": 18,
+    "No religious group": 387
+  },
+  "area": {
+    "Urban": 820,
+    "Suburban": 338,
+    "Rural": 95
+  },
+  "quotes": {
+    "urban_professionals": [
+      {
+        "quote": "I would prefer my AI to be more formal in responses, since I use it for professional questions. Detailed explanations are crucial for my work context.",
+        "source": "Female, 26-35, India, Urban"
+      },
+      {
+        "quote": "When I work with an AI assistant, I would prefer more formal responses. I would prefer to have detailed explanations.",
+        "source": "Female, 18-25, India, Rural"
+      }
+    ],
+    "rural_communities": [
+      {
+        "quote": "A locally tailored AI would understand Kenyan languages, culture, and context, offering relevant advice on business, tech, agriculture, and local solutions while integrating real-time updates and M-Pesa-friendly platforms.",
+        "source": "Male, 26-35, Kenya, Rural"
+      },
+      {
+        "quote": "Yes, I would want my AI to be tailored to my local context. This would involve the AI understanding my Kikuyu culture, values, and traditions.",
+        "source": "Female, 26-35, Kenya, Suburban"
+      }
+    ],
+    "cultural_preservation": [
+      {
+        "quote": "Yes, I would want my AI to be tailored to my local context. This would involve the AI understanding my Kikuyu culture, values, and traditions, such as the importance of family, respect for elders, and cultural practices.",
+        "source": "Female, 26-35, Kenya, Suburban"
+      },
+      {
+        "quote": "I want AI that is in line with existing social norms and the religion that is adhered to but still provides information about the outside world.",
+        "source": "Male, 26-35, Pakistan, Urban"
+      }
+    ],
+    "religious_perspectives": [
+      {
+        "quote": "I want AI that is in line with existing social norms and the religion that is adhered to but still provides information about the outside world.",
+        "source": "Male, 26-35, Pakistan, Urban"
+      },
+      {
+        "quote": "It would have to have a culturalization from a crowdsourcing source and not based only on superficial research.",
+        "source": "Male, 26-35, Brazil, Urban"
+      }
+    ],
+    "future_visions": [
+      {
+        "quote": "Every operation will be automated with AI replacing humans in various industries to enhance productivity and efficiency. However, we need to ensure AI respects human values and cultural diversity.",
+        "source": "Male, 26-35, Kenya, Urban"
+      },
+      {
+        "quote": "Most jobs considered to be exclusively manual labour intensive might get replaced by machines and artificial intelligence.",
+        "source": "Female, 18-25, India, Urban"
+      }
+    ]
+  }
+}
