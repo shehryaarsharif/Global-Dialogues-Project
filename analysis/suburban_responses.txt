@@ -389,7 +389,7 @@ Response:
 Language and way of life-views on love, marriage, rites of passage etc. AI may be very westernized and disregard other cultures.
 Emotions: {'joy': 2, 'positive': 2, 'anticipation': 1, 'trust': 1, 'negative': 1}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 People can adapt without cultural stuff...
 Emotions: {'positive': 1}
@@ -698,7 +698,7 @@ Response:
 Language we speak
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Vietnam
 Response:
 The unique of that culture disappears as no longer known anymore
 Emotions: {'positive': 2, 'surprise': 1}
@@ -827,7 +827,7 @@ Response:
 AI will not understand why it is why we like something a particular way in our culture even if it is not rational
 Emotions: {'positive': 2, 'trust': 1}
 ----------------------------------------
-Country: None
+Country: Vietnam
 Response:
 I'm more worried about the companies behind these AI being able to shape people opinion. 
 Emotions: {'negative': 1, 'sadness': 1, 'positive': 1}
@@ -962,7 +962,7 @@ Response:
 Chinese personal values, qualities and some national identities
 Emotions: {'trust': 1}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 Yes, for example, as a Muslim, I encounter many biased content of artificial intelligence on this subject.
 Emotions: {'negative': 2, 'joy': 2, 'positive': 2, 'trust': 2, 'fear': 1}
@@ -1007,7 +1007,7 @@ Response:
 Human rights and jobs
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Vietnam
 Response:
 I don't necessarily agree with this. If a westerned based AI dominate the world it'd have to manage to cater to the East or else it wouldn't be able to break through the market. But i supposed ancient texts could become lost, regional specialize profession would be forgotten
 Emotions: {'positive': 5, 'anger': 1, 'fear': 2, 'negative': 4, 'trust': 2, 'surprise': 1, 'sadness': 2}
@@ -1144,7 +1144,7 @@ Response:
 Our language which ai has no idea of communicating 
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 The ingenuity of life, what is real and what was made by a computer, I think things will be simpler and blander because of AI
 Emotions: {'positive': 1, 'trust': 1}
@@ -1239,7 +1239,7 @@ Response:
 The desire to conquer everything
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 morals and values
 Emotions: {'anger': 1, 'anticipation': 1, 'disgust': 1, 'joy': 1, 'positive': 1, 'surprise': 1, 'trust': 1}
@@ -1320,7 +1320,7 @@ Response:
 The traditional wedding and the African cuisines
 Emotions: {'positive': 1}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 The things I mentioned previously would not be affected (rather done better) by advanced AI.
 Emotions: {'positive': 1}
@@ -1517,7 +1517,7 @@ Response:
 Nothing particularly
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Vietnam
 Response:
 i don't know yet
 Emotions: {}

@@ -355,7 +355,7 @@ Response:
 Cultural etiquette, rituals of traditional festivals, and cultural conventions on morality and interpersonal relationships
 Emotions: {'positive': 2, 'trust': 1}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 Social communication, cooperation and tolerance between people.
 Emotions: {'trust': 2, 'positive': 1}
@@ -685,7 +685,7 @@ Response:
 traditions and customs
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 Traditional music, beliefs and rituals
 Emotions: {'joy': 1, 'positive': 1, 'sadness': 1}
@@ -946,7 +946,7 @@ Response:
 AI systems, particularly those trained on large datasets, may reinforce dominant cultural norms and neglect or erase minority languages, traditions, and cultural expressions. As these technologies become more integrated into everyday life, they could inadvertently marginalize less represented cultures and histories.
 Emotions: {'fear': 2, 'negative': 4, 'positive': 1}
 ----------------------------------------
-Country: None
+Country: Vietnam
 Response:
 the culture of working hard and smart
 
@@ -1128,7 +1128,7 @@ Response:
 Indigenous language spoken 
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 Id be most worried about losing cultural traditions and local practices that are unique to specific communities. Advance ai could potentially overlook or inadequately represent these traditions, leading to their erosion or misrepresentation. Preserving these practices is crucial to maintaining cultural diversity and heritage in an increasingly gobalized world
 
@@ -1271,7 +1271,7 @@ Response:
 The dominating languages and cultures of b the people influencing and developing AI would flourish taking a precedence over developing countries. And once developed , the changes would be so fast that other countries would have no. Choice but to adapt to these models leading to losing out on their own cultures and values that are important to them.
 Emotions: {'positive': 3, 'trust': 3, 'anger': 1, 'negative': 1, 'sadness': 1}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 Neighborhood culture maybe.
 Emotions: {'positive': 1}
@@ -1383,7 +1383,7 @@ Spread  of cultural  stereotype  and misinformation  among the society.
 It will bring changes to industrial build on culture. 
 Emotions: {'positive': 3, 'negative': 1}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 I’d be most worried about losing language diversity and the authenticity of cultural traditions in a future with advanced AI. AI may prioritize dominant languages and oversimplify complex cultural practices, leading to a loss of uniqueness and identity.
 Emotions: {'negative': 4, 'sadness': 3, 'anger': 2, 'positive': 2, 'trust': 2, 'fear': 2}
@@ -1601,7 +1601,7 @@ Response:
 In a future with advanced AI, I'm concerned about losing the human elements of culture that rely on personal experiences and interactions, such as traditional practices, rituals, and storytelling nuances. The essence of community bonding and emotional connections formed through cultural traditions might be diluted if AI overshadows these aspects. Preserving the personal touch in cultural practices and ensuring that technology enhances human connections is crucial
 Emotions: {'positive': 6, 'fear': 1, 'sadness': 2, 'anger': 1, 'negative': 1, 'trust': 3}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 some small country or tribes cultural things. 
 Emotions: {'negative': 1}
@@ -1734,7 +1734,7 @@ Response:
 In a future with advanced AI, I’d be most worried about losing cultural practices that emphasize human connection, such as traditional communal gatherings, storytelling, and personal rituals. The risk is that AI might replace these deeply human experiences with more impersonal or superficial interactions, potentially diminishing the rich, authentic aspects of cultural heritage and personal bonding. 
 Emotions: {'positive': 3, 'negative': 4, 'sadness': 2, 'anger': 1, 'trust': 5, 'anticipation': 1, 'fear': 1, 'joy': 1}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 If AI negatively impacts human relationships and leads to increased loneliness, people might face challenges in providing material and emotional support to one another.
 Emotions: {'fear': 1, 'negative': 1, 'sadness': 1, 'anticipation': 1, 'joy': 1, 'positive': 1, 'trust': 1}
@@ -1774,7 +1774,7 @@ Response:
 Supporting each other in need without seeing benefits out of this kind of support. 
 Emotions: {'joy': 1, 'positive': 1, 'trust': 1}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 Family, art and food of course
 Emotions: {'anticipation': 1, 'joy': 2, 'positive': 2, 'sadness': 1, 'surprise': 1, 'trust': 1}
@@ -1827,7 +1827,7 @@ With advanced AI, I’m worried about losing authentic human connections, tradit
 
 Emotions: {'positive': 6, 'negative': 3, 'sadness': 2, 'anger': 1, 'joy': 1, 'trust': 1, 'surprise': 1}
 ----------------------------------------
-Country: None
+Country: Venezuela
 Response:
 It is inevitable that AIs will come with human biases, as their creators may unwittingly transfer them to humans when training and creating them. What is most worrying is the fact that we live in an increasingly globalized world, where original cultures are gradually being forgotten and left behind, and once lost, they can hardly be recovered.
 Emotions: {'anticipation': 1, 'fear': 2, 'negative': 3, 'sadness': 3, 'trust': 1}
@@ -1989,7 +1989,7 @@ Lack of respect, humiliation of ancestral beliefs and customs, there is a lot of
 This is something that has already happened thanks to our hand, but it is likely to accelerate under AI.
 Emotions: {'anticipation': 2, 'joy': 2, 'positive': 3, 'trust': 3, 'disgust': 1, 'negative': 2, 'sadness': 2}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 I fear AI will infringe on the uniqueness of the artistic side
 Emotions: {'anger': 1, 'fear': 1, 'negative': 1, 'positive': 1}
@@ -2185,7 +2185,7 @@ Response:
 The emotion and thoughts and the way the people think, that's not something that an AI can do the same way as humans
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 The perks of my language (Korean) that cannot really translate well to English. Lot of art and humor are generated within the possibility that my language gives.
 Emotions: {'anticipation': 2, 'joy': 1, 'positive': 1, 'sadness': 1, 'surprise': 1}
@@ -2540,7 +2540,7 @@ Response:
 Family bonding and morals
 Emotions: {'anger': 1, 'anticipation': 1, 'disgust': 1, 'joy': 1, 'positive': 1, 'surprise': 1, 'trust': 1}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 I think values 
 Emotions: {}
@@ -2560,7 +2560,7 @@ Response:
 Traditional dances and Traditional clothes 
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 It could create new culture and i think its already happening.
 Emotions: {'joy': 1, 'positive': 2}
@@ -2757,7 +2757,7 @@ maybe the language
 
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 In our culture, there seem to be many people whose jobs can be replaced by AI. Because it is an industrial society, not a traditional society.
 Emotions: {'positive': 2}
@@ -2777,7 +2777,7 @@ Response:
 Art
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 The disappearance of the concept of family makes me unhappy
 Emotions: {'anger': 1, 'disgust': 1, 'negative': 1, 'sadness': 1}
@@ -2885,7 +2885,7 @@ Response:
 Multiculturalism. Everyone is the same.
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 find to help AI, not real person.
 Emotions: {'positive': 1, 'trust': 1}
@@ -3055,7 +3055,7 @@ Response:
 AI is a model (among many models that exist and various purposes that they serve) that is fed with data and information that comes from us humans. It could not not contain cultural aspects. I am not worried, it is not an objective in itself to eliminate the cultural aspects of AI, on the contrary, each locale is carefully incorporated.
 Emotions: {'positive': 4, 'negative': 3, 'trust': 2, 'sadness': 1, 'anticipation': 1}
 ----------------------------------------
-Country: None
+Country: Vietnam
 Response:
 Small island tribes' cultures. They have little representation in written documents, and may be further diluted by AI content.
 Emotions: {'joy': 1, 'positive': 1, 'trust': 1}
@@ -3080,7 +3080,7 @@ Response:
 when advance AI will step in the future. I will be most arried about my family
 Emotions: {'anticipation': 1, 'fear': 1, 'joy': 1, 'positive': 1, 'surprise': 1}
 ----------------------------------------
-Country: None
+Country: Vietnam
 Response:
 I believe AI cannot replace tradition
 Emotions: {}
@@ -3256,7 +3256,7 @@ Response:
 Too much frozen food is something to think about.
 Emotions: {'joy': 1, 'positive': 1, 'trust': 1}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 AI would be western-centered, but over half of the whole world is not western.
 Emotions: {}
@@ -3406,7 +3406,7 @@ Response:
 Feeling of union
 Emotions: {}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 if it is a real advanced ai that's fed & provided with necessary data & algorithm, i do not think there is anything to be afraid of in regards to language barriers / differences
 Emotions: {'positive': 2, 'trust': 1, 'fear': 1, 'negative': 1}
@@ -3548,7 +3548,7 @@ Response:
 I'm not afraid of anything. Unless AIs, as they do now, pass off invented facts as real and we forget history because of that.
 Emotions: {'fear': 1, 'negative': 2, 'positive': 2, 'trust': 2}
 ----------------------------------------
-Country: None
+Country: South Korea
 Response:
 Calculate simple math question.
 Emotions: {'positive': 1}

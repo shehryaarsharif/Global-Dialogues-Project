@@ -386,7 +386,7 @@ Response:
 Nothing. It can be very intelligent 
 Emotions: {'positive': 1, 'trust': 1}
 ----------------------------------------
-Country: None
+Country: Turkey
 Response:
 I don't have any concerns about this. It doesn't matter to me. I'm not someone who cares much about cultural values.
 Emotions: {}

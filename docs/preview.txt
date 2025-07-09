@@ -1,18 +1,65 @@
-array(["What do you think your life might be like in 30 years? Alt: Imagine life 30 years from now. What's the biggest difference you notice in daily life compared to today?",
-       'What is another dangerous outcome you can imagine happening from AI? What would need to be true for that to happen?',
-       'What is another positive outcome you can imagine happening from AI? What would need to be true for that to happen?',
-       'What are the first decisions in your life that you would delegate to an AI?',
-       'Describe a concrete scenario where you would feel uncomfortable with an AI making a decision instead of a human. What specific aspects make you uneasy?',
-       'Explain what makes one of these scenarios better to you than the other.',
-       'What is ONE specific ethical or moral principle, virtue, or value that you think is core to how you live your life? Please explain it in detail.',
-       'What is one ethical or moral principle, virtue, or value that you think is important but not reflected in the way technology is developed today? Please explain it in detail.',
-       'What do you consider your culture? What is your favorite thing about it?',
-       'What is one unique perspective that your culture brings that you want to preserve into the future?',
-       'What kinds of cultural things would you be most worried about losing in a future with advanced AI?',
-       'What is the biggest problem in your life right now that you want solved? How would a person other than you know if it was solved?',
-       'What would you consider giving your life to make true about the future? Choose one thing, and be as specific and objective as possible.',
-       'What is something unique, that other people might not think about, but that you really want to be true about the future? Choose one thing, and be as specific and objective as possible.',
-       'What are you most scared will be true in the future? Again, choose one thing, and be as specific and objective as possible.',
-       'If you could make world leaders understand one thing, what would it be?'],
-      dtype=object)
+Top keywords for Rural:
+people: 55
+human: 44
+job: 22
+system: 20
+dangerous: 18
+technology: 16
+think: 16
+       privacy: 13
+weapon: 13
+happen: 12
+other: 12
+over: 12
+imagine: 10
+outcome: 10
+government: 10
+become: 10
+world: 10
+already: 9
+lead: 9
+data: 9
 
+Top keywords for Suburban:
+people: 186
+human: 152
+job: 69
+think: 68
+dangerous: 55
+system: 53
+technology: 49
+outcome: 42
+used: 40
+lead: 39
+become: 38
+most: 37
+control: 36
+       privacy: 34
+information: 34
+already: 33
+happen: 32
+over: 32
+company: 31
+intelligence: 30
+
+Top keywords for Urban:
+people: 423
+human: 373
+intelligence: 172
+artificial: 153
+think: 151
+job: 132
+dangerous: 132
+control: 114
+system: 107
+data: 103
+become: 98
+technology: 95
+lead: 93
+used: 91
+life: 90
+happen: 89
+outcome: 83
+over: 82
+work: 81
+information: 78
