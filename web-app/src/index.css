@@ -10,6 +10,7 @@
   
   body {
     font-family: 'Inter', sans-serif;
+    background-color: #FFFAF2;
   }
 }
 
@@ -28,4 +29,20 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
+}
+
+.max-w-80rem {
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.max-w-50rem {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hide-cursor .type-animation-cursor {
+  display: none !important;
 }
