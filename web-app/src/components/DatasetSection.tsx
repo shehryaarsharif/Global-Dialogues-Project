@@ -61,14 +61,14 @@ const DatasetSection: React.FC = () => {
   const textOpacity = useTransform(scrollYProgress, [ANIMATION_START + 0.1, ANIMATION_END], [0, 1]);
 
   return (
-    <section className="w-full min-h-[250vh] py-24 px-4" style={{ backgroundColor: '#FFFAF2' }} ref={ref}>
-      <div className="sticky top-0 z-30 w-full bg-[#FFFAF2] pt-4 pb-4">
+    <section className="w-full pt-24 px-4" style={{ backgroundColor: '#FFFAF2' }} ref={ref}>
+      <div className="z-30 w-full bg-[#FFFAF2] pt-4">
         <h2 className="text-5xl md:text-6xl font-extrabold tracking-wide text-center uppercase font-sans" style={{ letterSpacing: '0.08em', marginBottom: '20px' }}>
           Dataset
         </h2>
       </div>
-      <div className="sticky top-0 h-screen flex flex-col items-center justify-center z-10">
-        <div className="relative w-full h-full flex flex-col items-center justify-center">
+      <div className="flex flex-col items-center justify-center z-10">
+        <div className="relative w-full flex flex-col items-center justify-center">
           <AnimatePresence>
             {(!isAnimated || crossfade) && (
               <motion.div
